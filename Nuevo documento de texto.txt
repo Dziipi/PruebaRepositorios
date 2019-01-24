@@ -1,1 +1,2 @@
-¡Hola! ¡¡Esto es un fichero!! :D
+<Git> Â¡Hola! Â¡Â¡Esto es un fichero!! :D
+<Git> Que mola mucho!!
